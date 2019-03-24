@@ -1,2 +1,2 @@
 # aiml
-Projects related to AI and ML.
+Personal projects related to AI and ML.
